@@ -1,0 +1,17 @@
+Tags
+====
+In the ep1 did you notice that there was a start for example:<html and that would start the html section the <html> is called the start tag.
+Also the end is always fallows the pattern </(section name)>
+The pattern is for start tags <(section name)>.
+Headers
+=======
+There are six different headers
+<h1>(header)</h1>
+<h2>(header)</h2>
+<h3>(header)</h3>
+<h4>(header)</h4>
+<h5>(header)</h5>
+<h6>(header)</h6>
+h1 is the biggest
+h6 is the smallest
+

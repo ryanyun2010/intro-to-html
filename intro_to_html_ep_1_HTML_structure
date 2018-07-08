@@ -1,0 +1,24 @@
+The HTML structure is:
+<!doctype HTML>
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+  
+  </body>
+</html>
+
+
+The <!doctype HTML> tells the browser to use HTML5.
+The <html> is the start of the is html section
+The html section is a wrapper that all the html code should be in.
+The <head> is the start of the head section.
+The head section is a part of the html that tells the browser some information like the title.
+The <title></title> tells the title.
+in between the > and < you put the title.
+The </head> ends the head section
+The <body> is the start of the body section
+The body section is the stuff that is displayed
+The </body> is the end of the body section
+The </html> is the end of the html section

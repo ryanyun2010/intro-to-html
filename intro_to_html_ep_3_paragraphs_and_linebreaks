@@ -1,0 +1,8 @@
+Paragraphs
+==========
+Paragraphs are written like this:
+<p>(text)</p>
+Line breaks
+===========
+In Html if you hit <enter> and type more you would think it would put a line break But in html you have to tell it by typing <br>
+Also if you type multiple spaces that are not separeated by another letter only the first one will be displayed.
